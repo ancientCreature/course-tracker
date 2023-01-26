@@ -11,4 +11,4 @@ compatibility_date = "2023-01-25"
 AIRTABLE_BASE_ID = "app3ha8WdLV7nJGBq"
 AIRTABLE_TABLE_NAME = "Courses"
 AIRTABLE_URL='https://api.airtable.com/v0'
-FORM_URL = "https://course-tracker-bdn.pages.dev/"
+FORM_URL = "https://course-tracker-1zg.pages.dev/"
